@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Implementing Active Directory in Azure](https://github.com/wernerschuler/Deploying-Active-Directory/commits?author=wernerschuler)
   - [Learning Domain name system](https://github.com/wernerschuler/Understanding-Domain-Name-System-DNS-/tree/main)
+  - [File Shares and Permissions](https://github.com/wernerschuler/File-Shares-and-Permissions/tree/main)
 
 <h2>🤳Connect with me:</h2>
 
