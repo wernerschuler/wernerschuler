@@ -7,7 +7,7 @@
   - [Installation and post installation configurations of osTicket](https://github.com/wernerschuler/osTicket)
   
 - <b>Microsoft Azure</b>
-  - [Implementing Active Directory in Azure](https://github.com/wernerschuler/Deploying-Active-Directory)
+  - [Implementing Active Directory in Azure](https://github.com/wernerschuler/Deploying-Active-Directory/tree/main)
   - [Learning Domain name system](https://github.com/wernerschuler/Understanding-Domain-Name-System-DNS-/tree/main)
   - [File Shares and Permissions](https://github.com/wernerschuler/File-Shares-and-Permissions/tree/main)
   - [Network Security Groups and Inspecting Network Protocols](https://github.com/wernerschuler/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
