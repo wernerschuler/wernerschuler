@@ -1,5 +1,5 @@
 
-<h1>Hello, I'm Werner, an IT Enthusiast</a></h1>
+<h1>Hello, I'm Werner, an IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
