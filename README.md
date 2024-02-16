@@ -13,7 +13,7 @@
   - [Network Security Groups and Inspecting Network Protocols](https://github.com/wernerschuler/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
   - [Setting up ProtonVPN](https://github.com/wernerschuler/VPNs/tree/main)
  
-<b>Computer Hardware</b>
+<b>🖥️Computer Hardware</b>
   - [Key Computer Hardware](https://github.com/wernerschuler/Computer-Hardware/tree/main)
 
 
