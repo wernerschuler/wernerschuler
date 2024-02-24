@@ -1,5 +1,5 @@
 
-<h1>Hello, I'm Werner, an IT Professional</a></h1>
+<h1>Hello, I'm Werner</h1>
 
 <h2>👨🏻‍💻Information Technology Projects:</h2>
 
@@ -13,7 +13,13 @@
   - [Network Security Groups and Inspecting Network Protocols](https://github.com/wernerschuler/Network-Security-Groups-NSGs-and-Inspecting-Traffic-Between-Azure-Virtual-Machines)
   - [Setting up ProtonVPN](https://github.com/wernerschuler/VPNs/tree/main)
  
-<b>🖥️Computer Hardware</b>
+- <b>Tasks in Active Directory</b>
+  - [Active Directory and ADManager Plus](https://github.com/wernerschuler/Active-Directory-Tasks) 
+
+ - <b>Group Policy</b>
+   - [Group Policy Management](https://github.com/wernerschuler/Group-Policy/tree/main) 
+ 
+- <b>Computer Hardware🖥️</b>
   - [Key Computer Hardware](https://github.com/wernerschuler/Computer-Hardware/tree/main)
 
 
